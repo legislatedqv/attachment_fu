@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Use pathlib in DOTA ops (#7552)
