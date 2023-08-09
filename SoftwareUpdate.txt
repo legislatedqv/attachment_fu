@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
