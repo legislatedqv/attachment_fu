@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add horizontal Mosaic3 augmentation (#6898)
