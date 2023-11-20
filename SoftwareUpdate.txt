@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update pyproject.toml and Docs (#7274)
