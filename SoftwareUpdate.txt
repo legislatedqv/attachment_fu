@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Allow Annotator PIL.Image inputs (#8397)
